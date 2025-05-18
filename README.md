@@ -2,16 +2,16 @@
 Кобяков Егор гр. ИВТ-24-1б
 | Задание | Код | Блок-схема | 
 | ------------- | ------------- | ------------- |
-| Lab_1(4 green) | :x:| :x:  |
-| Lab_2(5 green) | :x: | :x:  | 
+| GreenTextboock №4 | :x:| :x:  |
+| GreenTextboock №5 | :x: | :x:  | 
 | Sortings |:x: | :x:  |
 | Han_town |:x: | :x:  |
 | 8 queens|:x:  |:x:  |
-| Lab_3(6 green) |:x:  | :x:  |
-| Lab_4_1(7.1 green) |:x:| :x:  |
-| Lab_4_2(7.2 green) |:x:  | :x:  |
-| Lab_5(9 green) | :x:| :x:  | 
-| Lab_6(10 green) |:x: | :x:  |
+| GreenTextboock №6 |:x:  | :x:  |
+| GreenTextboock №7.1 |:x:| :x:  |
+| GreenTextboock №7.2 |:x:  | :x:  |
+| GreenTextboock №9 | :x:| :x:  | 
+| GreenTextboock №10 |:x: | :x:  |
 | Lab_7(односвязные списки) | :x:| :x:  |
 | Lab_7(двусвязные списки) | :x:| :x:  |
 | Lab_7(стек) | :x: | :x:  |
