@@ -9,7 +9,7 @@
 | Вставка |☑️: | :x:  | :x:  |
 | Ханойская |:x: | :x:  | :x:  |
 | 8 Ферзей|:x:  |:x:  | :x:  |
-| GreenTextboock №6 |:x:  | :x:  | :x:  |
+| GreenTextboock №6 |☑️:  | :x:  | :x:  |
 | GreenTextboock №7.1 |:x:| :x:  | :x:  |
 | GreenTextboock №7.2 |:x:  | :x:  | :x:  |
 | GreenTextboock №9 | :x:| :x:  |  :x:  |
